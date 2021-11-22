@@ -1,9 +1,10 @@
 # tourMarket  
-## Untactour : 비대면 시대에 집에서도 해외여행을 갈 수 있다는 컨셉을 가지고 만든 여행상품 판매 사이트입니다.  
+## Untactour  
+비대면 시대에 집에서도 해외여행을 갈 수 있다는 컨셉을 가지고 만든 여행상품 판매 사이트입니다.  
   
 ##사용언어  
-+JAVA  
-+JavaScript
++ JAVA  
++ JavaScript
 
 ##DB
 + Oracle
